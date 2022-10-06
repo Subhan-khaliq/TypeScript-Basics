@@ -1,4 +1,4 @@
-//type casting
+//aliases
 
 type BirthYear = number
 type NameType = string
